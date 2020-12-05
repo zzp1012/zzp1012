@@ -8,5 +8,3 @@
 -->
 
 [![Zhanpeng Zhou's github stats](https://github-readme-stats.vercel.app/api?username=zzp1012)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Zhanpeng Zhou's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zzp1012)](https://github.com/anuraghazra/github-readme-stats)
