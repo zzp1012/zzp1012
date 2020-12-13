@@ -7,4 +7,4 @@
 - 😄 Be like A Five! 
 -->
 
-[![Zhanpeng Zhou's github stats](https://github-readme-stats.vercel.app/api?username=zzp1012&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Zhanpeng Zhou's github stats](https://github-readme-stats.vercel.app/api?username=zzp1012)](https://github.com/anuraghazra/github-readme-stats)
