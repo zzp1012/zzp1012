@@ -5,5 +5,3 @@ I am an undergraduate student majored in Electrical and Computer Engineering at 
 
 - 📫 How to reach me: zzp1012@sjtu.edu.cn
 - 👉 Personal Page: [zzp1012.top](http://zzp1012.top/)
-
-[![Zhanpeng Zhou's github stats](https://github-readme-stats.vercel.app/api?username=zzp1012)](https://github.com/anuraghazra/github-readme-stats)
