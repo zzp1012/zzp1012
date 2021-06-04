@@ -5,4 +5,4 @@ I am an undergraduate student majored in Electrical and Computer Engineering at 
 
 
 - 📫 How to reach me: zzp1012@sjtu.edu.cn
-- 👉 Personal Page: [zzp1012.top](http://zzp1012.top/) or [zzp1012.github.io/](https://zzp1012.github.io/)
+- 👉 Personal Page: [zzp1012.top](http://zzp1012.top/) or [zzp1012.github.io](https://zzp1012.github.io/)
