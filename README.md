@@ -4,4 +4,4 @@
 I am an undergraduate student majoring in Electrical and Computer Engineering at [UMJI-SJTU](ji.sjtu.edu.cn). My research interests range across explainable AI, graph representation learning and game theory.
 
 - 📫 How to reach me: [zzp1012@sjtu.edu.cn](mailto:zzp1012@sjtu.edu.cn)
-- 👉 Personal Page: [zzp1012.top](http://zzp1012.top/) or [zzp1012.github.io](https://zzp1012.github.io/)
+- 👉 Personal Page: [zzp1012.top](http://zzp1012.top/)
