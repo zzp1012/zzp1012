@@ -8,5 +8,5 @@ Now, I am a undergraduate researcher at [John Hopcroft Center](http://jhc.sjtu.e
 
 I will pursue my Ph.D. degree under the supervision of [Prof. Quanshi Zhang](http://qszhang.com/) at Shanghai Jiao Tong University after graduation.
 
-- 📫 How to reach me: zzp1012@sjtu.edu.cn or ![Wechat](https://img.shields.io/badge/-zzp01012-green?style=flat&logo=Wechat&logoColor=white)
+- 📫 How to reach me: zzp1012@sjtu.edu.cn
 - 👉 Personal Page: [zzp1012.top](http://zzp1012.top/) or [zzp1012.github.io](https://zzp1012.github.io/)
