@@ -1,4 +1,5 @@
 ## About Me 👋 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zzp1012.zzp1012)  ![followers](https://img.shields.io/github/followers/zzp1012)  ![stars](https://img.shields.io/github/stars/zzp1012)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zzp1012&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 I am an undergraduate student majored in Electrical and Computer Engineering at [UMJI-SJTU](https://www.ji.sjtu.edu.cn/). My research interests range across explainable AI, graph representation learning and game theory. 
 
@@ -6,11 +7,5 @@ Now, I am a undergraduate researcher at [John Hopcroft Center](http://jhc.sjtu.e
 
 I will pursue my Ph.D. degree under the supervision of [Prof. Quanshi Zhang](http://qszhang.com/) at Shanghai Jiao Tong University after graduation.
 
-- 📫 How to reach me: zzp1012@sjtu.edu.cn
+- 📫 How to reach me: zzp1012@sjtu.edu.cn or ![Wechat](https://img.shields.io/badge/-zzp01012-green?style=flat&logo=Wechat&logoColor=white)
 - 👉 Personal Page: [zzp1012.top](http://zzp1012.top/) or [zzp1012.github.io](https://zzp1012.github.io/)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zzp1012.zzp1012) 
-![followers](https://img.shields.io/github/followers/zzp1012) 
-![stars](https://img.shields.io/github/stars/zzp1012)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zzp1012/)
-![Wechat](https://img.shields.io/badge/-zzp01012-green?style=flat&logo=Wechat&logoColor=white)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/zhanpeng_zhou)
