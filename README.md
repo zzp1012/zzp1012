@@ -4,4 +4,4 @@
 I am a senior student majoring in Electrical and Computer Engineering at [UM-SJTU JI](https://www.ji.sjtu.edu.cn/). My research interests range across Deep Learning, Computer Vision and Explainable AI.
 
 - 📫 How to reach me: 1012zzphh [AT] gmail.com
-- 👉 Personal Page: [zzp1012.me](http://zzp1012.me/)
+- 👉 Personal Page: [zzp1012.github.io](https://zzp1012.github.io)
